@@ -75,7 +75,7 @@
     padding: 5rem 14rem;
     transform: translateY(-5px);
     height: 920px;
-    background-image: url(../sources/Images/BGTour.jpg);
+    background-image: url(sources/Images/BGTour.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -155,7 +155,7 @@
     display: flex;
     transform: translateY(-10rem);
     height: 40rem;
-    background-image: url(../sources/Images/footer.jpg);
+    background-image: url(sources/Images/footer.jpg);
 }
 .footer__logo {
     flex-basis: 40%;
